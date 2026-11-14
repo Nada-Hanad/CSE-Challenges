@@ -1,5 +1,7 @@
 # HTML and CSS Challenge
 
+> I wrote this challenge for the Scientific Club of ESI (CSE) in February 2023: participants rebuilt each shape from its image in plain HTML and CSS. My reference solutions, each shown beside its target image, are in [CSE-Challenges-solutions](https://github.com/Nada-Hanad/CSE-Challenges-solutions).
+
 Welcome to our HTML and CSS Challenge! This activity is designed to help you practice and improve your HTML and CSS skills, while having some fun at the same time.
 
 ## Rules
